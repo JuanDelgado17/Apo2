@@ -1,6 +1,6 @@
 ![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png)
 
-# MANEJO DE FUNCIONES APOII
+# MANEJO DE FUNCIONES APO II
 
 Un párrafo de la descripción del proyecto va aquí.
 
